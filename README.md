@@ -41,3 +41,7 @@
 
 #### Keyboard
 - you might want to **max** the `key repeat` & `Delay until repeat` in the keyboard section. 
+
+#### Telegram
+- Insert `~/Library/Group Containers`, press Enter. This directory will open. 
+- Then find the directory `*.keepcoder.Telegram`, go into it, next to `account-*`, next to postbox
