@@ -35,3 +35,9 @@
 - tick reduce transparrency
 
 
+#### Mission control
+- better to unmark all of em' 
+
+
+#### Keyboard
+- you might want to **max** the `key repeat` & `Delay until repeat` in the keyboard section. 
