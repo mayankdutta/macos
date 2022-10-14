@@ -45,3 +45,6 @@
 #### Telegram
 - Insert `~/Library/Group Containers`, press Enter. This directory will open. 
 - Then find the directory `*.keepcoder.Telegram`, go into it, next to `account-*`, next to postbox
+
+#### Full screen shortcut 
+- fn + f
