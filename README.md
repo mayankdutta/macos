@@ -48,3 +48,11 @@
 
 #### Full screen shortcut 
 - fn + f
+
+
+#### EMFILE too many files open js error
+- `ulimit -n` (to view your current limit) 
+- `ulimit -n 1024` (to expand the limit, it will be temproary, restarting your session will restore the default value)
+- Adding the `ulimit -n 10240` statement to your bash profile using `sudo nano .bash_profile` makes it permanent. 
+
+
